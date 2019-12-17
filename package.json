@@ -1,0 +1,18 @@
+{
+  "name": "com.holopipe.avatar_system",
+  "displayName": "Avatar System",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "description": "",
+  "keywords": [
+    
+  ],
+  "category": "Text Rendering",
+  "dependencies": { },
+  "relatedPackages": { },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixygon/Avatar-System.git",
+    "revision": "0001"
+  }
+}
